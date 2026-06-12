@@ -1,5 +1,4 @@
 Cyber-Threat-Intelligence-and-Risk-Assessment-Dashboard-POWER-BI
-Cyber Threat Intelligence & Risk Assessment Dashboard
 
  Project Overview
 
