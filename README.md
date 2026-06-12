@@ -142,18 +142,7 @@ Data preprocessing was performed using Power Query:
 - Data standardization
 - Data transformation for reporting
 
- Repository Structure
-Cyber-Threat-Intelligence-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.csv
-│
-├── Dashboard Screenshots/
-│ ├── Executive Dashboard.png
-│ ├── Geographic Analysis.png
-│ ├── Financial Impact Analysis.png
-│ ├── Threat Intelligence Dashboard.png
-│ └── Risk Assessment Dashboard.png
+
  Future Enhancements
 
 - Drill-through analytics
